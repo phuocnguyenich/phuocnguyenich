@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Phuoc Nguyen Ich
 - 👀 I am a .NET developer
-- 🌱 My tech stack:  C#, SOLID, SQL, Asp.Net Core API, MVC, Entity Framework Core, MSSQL Server, Memory cache, Redis cache, AWS lambda, Unit Testing, CQRS
+- 🌱 My tech stack:  ASP.Net Core API, Entity Framework Core, Angular, Kendo UI, Bootstrap, MSSQL Server, Azure, Unit Testing, Microservice
 - 📫 You can reach me via phuocnguyenich.affm@gmail.com
 
 ### :fire: My Stats :
